@@ -1,4 +1,4 @@
-ARG BASE_IMAGE=lincolnbryant/htcondor-af2:latest
+ARG BASE_IMAGE=lincolnbryant/htcondor-execute-af2:latest
 FROM ${BASE_IMAGE}
 ARG BASE_IMAGE
 
